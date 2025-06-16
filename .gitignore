@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+Clasificación_de_ingresos/Datos/census+income
