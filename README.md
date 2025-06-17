@@ -15,9 +15,9 @@ Aquí encontrarás una colección de proyectos enfocados en esta técnica de mod
 * git clone https://github.com/alexanderarm10/RandomForest_-_DecisionTree.git.git
 
 **🌟 Proyectos incluidos**
-1. Clasificaciòn de ingresos
+1. Clasificación de ingresos
 * Dataset: https://archive.ics.uci.edu/dataset/20/census+income
-2. Próximamente
+2. Impago de créditos
 
 **📄 Licencia**
 * Este repositorio se encuentra bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.

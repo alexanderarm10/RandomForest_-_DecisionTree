@@ -3,4 +3,3 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 venv/
-Clasificación_de_ingresos/Datos/census+income
